@@ -1,0 +1,8 @@
+__pycache__/
+*.egg-info/
+*.tmp
+# Maintainer-only: EDHREC data/scripts (not redistributable), research, release builds
+private/
+dist/
+build/
+.DS_Store

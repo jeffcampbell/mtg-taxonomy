@@ -1,0 +1,10 @@
+The theme data published with scry (scry-themes.csv.gz: per-card answers to the theme
+questions in src/scry/themes/questions.py) is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0):
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Theme data from scry (https://github.com/jeffcampbell/mtg-taxonomy)".
+
+This covers the theme answers only. Card names and rules text are property of Wizards
+of the Coast; card data comes from Scryfall. Neither is relicensed here.

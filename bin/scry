@@ -1,0 +1,4 @@
+#!/bin/sh
+# Run scry from a checkout without installing it.
+here="$(cd "$(dirname "$(readlink -f "$0")")/.." && pwd)"
+PYTHONPATH="$here/src${PYTHONPATH:+:$PYTHONPATH}" exec python3 -m scry "$@"
